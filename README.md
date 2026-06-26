@@ -1,6 +1,3 @@
-# LoRaWAN-ADR-Comparison-Simulator
-A comprehensive LoRaWAN simulation framework comparing multiple Adaptive Data Rate (ADR) algorithms including DQN-based optimization, Original ADR, and ML-ADR with energy consumption analysis.
-
 # LoRaSimulator – ADR Optimization with Reinforcement Learning
 
 This repository contains the **LoRaSimulator**, a Python-based discrete-event simulator developed for the diploma thesis *"Τεχνικές βελτιστοποίησης μηχανισμού ADR σε δίκτυα LoRa με χρήση μηχανικής μάθησης"* (Optimization of ADR mechanism in LoRa networks using Machine Learning).
@@ -29,7 +26,7 @@ How to Run the Code
 Clone the repository or download the files:
 bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/alexlef13/LoRaWAN-ADR-Comparison-Simulator.git
 cd your-repo-name
 
 2. Execution Modes
